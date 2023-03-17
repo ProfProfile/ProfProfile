@@ -1,0 +1,15 @@
+{
+  "name": "profprofile",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "docsify serve ./docs -p 4233"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "docsify": "^4.13.0"
+  }
+}
