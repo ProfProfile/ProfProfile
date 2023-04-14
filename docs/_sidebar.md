@@ -1,2 +1,3 @@
 - [Главная](README.md)
+- [Концепция](concept.md)
 - [Авторы](authors.md)
